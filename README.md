@@ -1,5 +1,5 @@
-# 💫 About Me:
-Coding Ninjas
+# 💫 Hey There! I am Abhishek Singh Chauhan, a Full Stack Web Developer From this Planet Earth:
+
 
 
 ## 🌐 Socials:
