@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hikewithak" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_733579?term=logo&page=1&position=21&origin=search&related_id=733579" height="30" width="120" />Twitter</a>
+<a href="https://twitter.com/hikewithak" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" /></a>
 <a href="https://linkedin.com/in/nerdabhishek" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="nerdabhishek" height="30" width="100" /></a>
 </p>
 
