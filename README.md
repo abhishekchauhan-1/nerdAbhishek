@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hikewithak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg" height="30" width="100"/></a>
-<a href="https://linkedin.com/in/nerdabhishek" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="nerdabhishek" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/nerdabhishek" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/37/linkedin.svg" alt="nerdabhishek" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
